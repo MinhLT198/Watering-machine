@@ -1,5 +1,5 @@
 # Tên file thực thi
-TARGET = my_program
+TARGET = main
 
 # Thư mục gốc chứa mã nguồn
 SRC_DIR = .
